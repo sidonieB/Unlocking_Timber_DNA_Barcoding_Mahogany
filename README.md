@@ -11,10 +11,16 @@ Laszlo Csiba (RBG Kew)
 Camila Quintero-Berns (RBG Kew)  
   
 **Project collaborators:**  
-World Forest ID (P. Gasson, H. Jennings, T. Calcutt; RBG Kew)
+World Forest ID (Dr P. Gasson, H. Jennings, T. Calcutt; RBG Kew)  
+Dr Gaël U.D. Bouka (Marien Ngouabi University, RC)  
+Dr Emmanuel Ebanyenle (Forestry Research Institute of Ghana)  
+Cynel Gwenael Moundounga (IRET, Gabon)  
+Dr Martin Ricker (UNAM, Mexico)  
+Philomena Yarwoah (National Herbarium of Liberia)  
+Guy Herman Zangium Tchoutezou (University of Ottawa, Canada; University of Dschang,  Cameroon)  
   
 **Funded by:**  
-Illegal Wildlife Trade (IWT) Challenge Fund; (Evidence project IWTEV013)[https://iwt.challengefund.org.uk/project/IWTEV013]
+Illegal Wildlife Trade (IWT) Challenge Fund; [Evidence project IWTEV013](https://iwt.challengefund.org.uk/project/IWTEV013)
   
 **Brief summary:**  
 Species identification is essential to monitor and halt illegal timber trade (ITT). DNA-based identification (DNA barcoding) can be cheaper and more accurate than commonly used techniques (e.g. spectrometry, anatomy), but technical challenges have so far prevented its wide application to timber identification. Here, we will enable better ITT monitoring and regulation through DNA barcoding by providing research-based evidence of 1) the conditions for successful implementation of timber DNA barcoding, and 2) DNA barcoding methods applicable to key timber species.  
