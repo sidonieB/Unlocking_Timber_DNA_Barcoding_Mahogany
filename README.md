@@ -13,11 +13,13 @@ Camila Quintero-Berns (RBG Kew)
 **Project collaborators:**  
 World Forest ID (Dr P. Gasson, H. Jennings, T. Calcutt; RBG Kew)  
 Dr Gaël U.D. Bouka (Marien Ngouabi University, RC)  
+Dr Bhely Angoboy Ilondea (Institut National pour l’Etude et la Recherche Agronomiques, DRC)
 Dr Emmanuel Ebanyenle (Forestry Research Institute of Ghana)  
 Cynel Gwenael Moundounga (IRET, Gabon)  
 Dr Martin Ricker (UNAM, Mexico)  
 Philomena Yarwoah (National Herbarium of Liberia)  
 Guy Herman Zangium Tchoutezou (University of Ottawa, Canada; University of Dschang,  Cameroon)  
+Barrett McBride (RBG, Kew; University of Reading)
   
 **Funded by:**  
 Illegal Wildlife Trade (IWT) Challenge Fund; [Evidence project IWTEV013](https://iwt.challengefund.org.uk/project/IWTEV013)
